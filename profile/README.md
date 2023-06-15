@@ -18,3 +18,7 @@ Goal 4. Develop novel and improved tools to support the prevention and control o
 Goal 5. Determine the impact of ASF prevention and control tools
 
 Goal 6. Serve as a communication and technology sharing gateway for the global ASF research community and stakeholders
+
+### The Goal of this Github
+
+This Github is used to post code, functions and other items created in the process of achieving GARAs core missions.
