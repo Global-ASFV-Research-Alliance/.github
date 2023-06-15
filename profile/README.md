@@ -1,12 +1,18 @@
-## Hi there 👋
+Mission of GARA
+To establish and sustain global research partnerships that will generate scientific knowledge and tools to contribute to the successful prevention, control and where feasible eradication of African Swine Fever (ASF).
 
-<!--
+Vision of GARA
+A coordinated global research alliance enabling the progressive control and eradication of ASF.
 
-**Here are some ideas to get you started:**
+Strategic Goals of GARA
+Goal 1. Identify research opportunities and facilitate collaborations within the Alliance
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Goal 2. Conduct strategic and multi-disciplinary research to better understand ASF
+
+Goal 3. Determine social and economic drivers and impact of ASF
+
+Goal 4. Develop novel and improved tools to support the prevention and control of ASF
+
+Goal 5. Determine the impact of ASF prevention and control tools
+
+Goal 6. Serve as a communication and technology sharing gateway for the global ASF research community and stakeholders
