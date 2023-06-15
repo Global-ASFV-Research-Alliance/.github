@@ -1,10 +1,12 @@
-Mission of GARA
+### [Global African Swine Fever Research Alliance (GARA)](https://www.ars.usda.gov/gara/)
+
+### Mission of GARA
 To establish and sustain global research partnerships that will generate scientific knowledge and tools to contribute to the successful prevention, control and where feasible eradication of African Swine Fever (ASF).
 
-Vision of GARA
+### Vision of GARA
 A coordinated global research alliance enabling the progressive control and eradication of ASF.
 
-Strategic Goals of GARA
+### Strategic Goals of GARA
 Goal 1. Identify research opportunities and facilitate collaborations within the Alliance
 
 Goal 2. Conduct strategic and multi-disciplinary research to better understand ASF
